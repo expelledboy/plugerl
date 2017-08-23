@@ -1,0 +1,12 @@
+deps
+ebin
+.rebar
+.eunit
+_build
+*.o
+*.beam
+*.plt
+erl_crash.dump
+.concrete/DEV_MODE
+TEST-*.xml
+rebar3

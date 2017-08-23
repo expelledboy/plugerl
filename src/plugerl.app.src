@@ -1,0 +1,13 @@
+%% -*- erlang -*-
+
+{application, plugerl,
+ [
+  {description, "Most simple plugin system using Erlang behaviours."},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {applications, [kernel, stdlib]},
+
+  {maintainers, ["expelledboy"]},
+  {licenses, ["Apache 2.0"]},
+  {links, [{"Github", "https://github.com/expelledboy/plugerl"}]}
+ ]}.
